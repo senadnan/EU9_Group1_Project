@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b1e8c30-a6b7-4bc0-9b64-279900d467d5" name="Changes" comment="From feature Nuray">
+      <change afterPath="$PROJECT_DIR$/src/ClassA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,9 @@
       <workItem from="1660148836208" duration="352000" />
       <workItem from="1660471054388" duration="2163000" />
       <workItem from="1660474813382" duration="38000" />
+      <workItem from="1660583855854" duration="322000" />
+      <workItem from="1660755190580" duration="536000" />
+      <workItem from="1662397588004" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="Created Test Case 001">
       <created>1660149021211</created>
@@ -81,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660472313775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="From feature Nuray">
+      <created>1660584050349</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660584050349</updated>
+    </task>
+    <task id="LOCAL-00005" summary="From feature Nuray">
+      <created>1660584065144</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660584065144</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
